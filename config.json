@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdetch",
+        "uuid": 28551600,
+        "checksum": "tp86fi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
